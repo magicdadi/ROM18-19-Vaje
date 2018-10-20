@@ -24,3 +24,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [denis123FMF](https://github.com/denis123FMF/ROM)
 - [DomenCebulj](https://github.com/CebuljDomen/ROM)
 - [DenisBencic](https://github.com/DenisBencic/ROM2)
+- [magicdadi](https://github.com/magicdadi/ROM)
